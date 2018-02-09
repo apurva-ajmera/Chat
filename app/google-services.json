@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "376649296430",
+    "firebase_url": "https://chat-4f296.firebaseio.com",
+    "project_id": "chat-4f296",
+    "storage_bucket": "chat-4f296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376649296430:android:629db1806e8af77d",
+        "android_client_info": {
+          "package_name": "comn.example.apurva.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376649296430-ms09tvljngl98c55daj0a22tm8i1e06a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comn.example.apurva.chat",
+            "certificate_hash": "c5b1e061b01b6d3ea2edd2debc9cd10c6527fc91"
+          }
+        },
+        {
+          "client_id": "376649296430-6hprlc2mi80j9i5savmo028ea4n1glpt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmaBcK8WriFEmjW-oijS6v_vqK-zos9XQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376649296430-6hprlc2mi80j9i5savmo028ea4n1glpt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

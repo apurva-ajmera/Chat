@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Chat</string>
+    <string name="logout">LogOut</string>
+    <string name="email" tools:ignore="DuplicateDefinition">Email</string>
+    <string name="password" tools:ignore="DuplicateDefinition">Password</string>
+    <string name="login">Login</string>
+    <string name="hint" tools:ignore="DuplicateDefinition">hint</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_request_page">Welcome To Request Page</string>
+    <string name="chat_page">Chat Page</string>
+    <string name="friends_page">Friends Page</string>
+    <string name="display_name">Display Name</string>
+    <string name="hey_there_i_m_using_chat_app">Hey there,i\'m using Chat App</string>
+    <string name="change_image">CHANGE IMAGE</string>
+    <string name="change_status">CHANGE STATUS</string>
+
+</resources>
